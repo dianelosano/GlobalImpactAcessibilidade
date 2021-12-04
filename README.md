@@ -10,25 +10,23 @@ Grupo 5
 ##
 
 Os quatro princípios da acessibilidade 
-<div>
+
 Perceptível - as informações e os componentes da interface do usuário devem ser apresentáveis aos usuários de uma forma que eles possam perceber.
 Isso significa que os usuários devem ser capazes de perceber a informação apresentada (não pode ser invisível para todos os seus sentidos)
-</div>
-##
-<div>
+
+#
 Operável - os componentes da interface do usuário e a navegação devem estar operacionais.
 Isso significa que os usuários devem ser capazes de operar a interface (a interface não pode exigir interação que um usuário não pode realizar)
-</div>
-##
-<div>
+
+#
 Compreensível - as informações e a operação da interface do usuário devem ser compreensíveis.
 Isso significa que os usuários devem ser capazes de compreender as informações, bem como a operação da interface do usuário (o conteúdo ou a operação não pode estar além de sua compreensão)
-</div>
-##
-<div>
+
+#
+
 Robusto - o conteúdo deve ser robusto o suficiente para que possa ser interpretado de forma confiável por uma ampla variedade de agentes de usuário, incluindo tecnologias assistivas.
 Isso significa que os usuários devem ser capazes de acessar o conteúdo conforme as tecnologias avançam (conforme as tecnologias e os agentes do usuário evoluem, o conteúdo deve permanecer acessível)
-<div>
+
 
 ##
 Gerais
