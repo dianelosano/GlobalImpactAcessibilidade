@@ -30,61 +30,60 @@ Isso significa que os usuários devem ser capazes de acessar o conteúdo conform
 ##
 Gerais
 
-  -Acess Monitor https://accessmonitor.acessibilidade.gov.pt/
-  -Avaliador do MWPT https://mwpt.com.br/transformacao/teste-acessibilidade/
-
+  - Acess Monitor https://accessmonitor.acessibilidade.gov.pt/
+  - Avaliador do MWPT https://mwpt.com.br/transformacao/teste-acessibilidade/
+##
 Chrome extensões
 
-  -eScanner https://chrome.google.com/webstore/detail/escanner/mpiipiobgejghkocofogeonfkapjgfmk?hl=pt-BR
-  -Web Developer https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR
-
+  - eScanner https://chrome.google.com/webstore/detail/escanner/mpiipiobgejghkocofogeonfkapjgfmk?hl=pt-BR
+  - Web Developer https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR
+## 
 Firefox extensões
-
-  -HeadingsMap https://addons.mozilla.org/pt-BR/firefox/addon/headingsmap/?src=ss
-
+  
+  - HeadingsMap https://addons.mozilla.org/pt-BR/firefox/addon/headingsmap/?src=ss
+##
 Ferramentas para Wordpress
 
   -http://www.web-accessibility-toolbar.com/
   -https://br.wordpress.org/plugins/sogo-accessibility/
-
+##
 Para autista
 
-  -Evitar figuras de linguagem;
-  -Contraste de cores mais suave;
-  -Elementos da UI (user interface) mais intuitivos com uma boa affordance
-  -http://www.appyautism.com/en/the-project/
-  -https://gaia.wiki.br/
-
+  - Evitar figuras de linguagem;
+  - Contraste de cores mais suave;
+  - Elementos da UI (user interface) mais intuitivos com uma boa affordance
+  - http://www.appyautism.com/en/the-project/
+  - https://gaia.wiki.br/
+##
 Para surdos 
 
-  -Colocar legendas ou audiodescrições nos vídeos;
-  -Evitar textos muitos longos;
-  -Elementos da UI (user interface) mais intuitivos com uma boa affordance
-  -Adicionar imagens e linguagens de sinais.
-  -https://handtalk.me/br/aplicativo
-
+  - Colocar legendas ou audiodescrições nos vídeos;
+  - Evitar textos muitos longos;
+  - Elementos da UI (user interface) mais intuitivos com uma boa affordance
+  - Adicionar imagens e linguagens de sinais.
+  - https://handtalk.me/br/aplicativo
+##
 Para disléxicos 
 
-  -Evitar textos muito longos;
-  -Remover sublinhados e textos inteiros em caixa alta;
-  -Oferecer correções automáticas ou sugestões
-  -https://opendyslexic.org/
-
+  - Evitar textos muito longos;
+  - Remover sublinhados e textos inteiros em caixa alta;
+  - Oferecer correções automáticas ou sugestões
+  - https://opendyslexic.org/
+##
 Para pessoas com baixa visão
 
-  -Tomar cuidado com a contraste das cores;
-  -Evitar fontes muito pequenas;
-  -Evitar passar informações apenas por cor.
-  -Utilizar uma alternativa de texto em conteúdo não textual.
-  -Fornecer uma alternativa de converter textos em áudio.
-  -Adicionar audiodescrição.
-  -https://color.adobe.com/pt/create/color-wheel
-  -https://www.toptal.com/designers/colorfilter
-
-
+  - Tomar cuidado com a contraste das cores;
+  - Evitar fontes muito pequenas;
+  - Evitar passar informações apenas por cor.
+  - Utilizar uma alternativa de texto em conteúdo não textual.
+  - Fornecer uma alternativa de converter textos em áudio.
+  - Adicionar audiodescrição.
+  - https://color.adobe.com/pt/create/color-wheel
+  - https://www.toptal.com/designers/colorfilter
+##
 Para pessoas com deficiência física 
 
-  -Elementos mais fáceis de serem acertados;
-  -Evitar alertas aleatórios;
-  -Fornecer atalhos.
-  -https://www.texthelp.com/en-gb/products/reachdeck/browsealoud-is-now-the-reachdeck-toolbar/
+  - Elementos mais fáceis de serem acertados;
+  - Evitar alertas aleatórios;
+  - Fornecer atalhos.
+  - https://www.texthelp.com/en-gb/products/reachdeck/browsealoud-is-now-the-reachdeck-toolbar/
